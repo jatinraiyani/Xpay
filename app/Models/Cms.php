@@ -10,3 +10,4 @@ class Cms extends Model
 
   protected $table = 'cms';
 }
+

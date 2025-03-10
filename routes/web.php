@@ -81,6 +81,8 @@ Route::get('admin', function () {
         return Redirect::to("admin/dashboard");
     }
 });
+
+
 Route::get('admin/login','Admin\LoginController@login');
 Route::post('admin/login-auth','Admin\LoginController@login_auth');
 
