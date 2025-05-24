@@ -44,3 +44,7 @@ X-Pay has successfully redefined cryptocurrency exchange by delivering an easy, 
 
 Conclusion
 X-Pay stands as a game-changer in the crypto industry, bridging the gap between innovation and accessibility. Whether you're an experienced trader or a newcomer, X-Pay is your go-to platform for a seamless and secure cryptocurrency exchange experience.
+
+X-pay Interface Preview
+![Project Screenshot](https://github.com/jatinraiyani/Xpay/blob/main/public/img/media/xpay_mokup_1.jpg)
+![Project Screenshot](https://github.com/jatinraiyani/Xpay/blob/main/public/img/media/xpay_mokup_2.jpg)
